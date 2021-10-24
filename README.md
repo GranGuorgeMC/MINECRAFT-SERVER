@@ -2,8 +2,10 @@
 STARTTING
 
 
-`REPLIT ROOT`
-
+`REPLIT`
+wget https://raw.githubusercontent.com/GranGuorgeMC/MINECRAFT-SERVER/main/YOUTUBE.sh
+chmod +x YOUTUBE.sh
+./YOUTUBE.sh
 
 'SRVER TYPE'
 
