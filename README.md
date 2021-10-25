@@ -41,3 +41,10 @@ TUNNEL
 screen ./playit-linux_64-0.4.7
 
 
+`sign up`
+ # LINKS
+ * [**REPLIT**](https://replit.com)
+ * [**UPTIME ROBOT**](https://uptimerobot.com/)
+
+
+
