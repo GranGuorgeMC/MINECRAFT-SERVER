@@ -31,10 +31,13 @@ chmod +x bedrock.1.17.30
 ./bedrock.1.17.30.sh
 
 
-`FOR POCKETMINE`
 
 TUNNEL
 
 `FOR TUNNELING`
+
+./dist/proot -S . /bin/bash
+
+screen ./playit-linux_64-0.4.7
 
 
