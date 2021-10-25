@@ -7,7 +7,7 @@ chmod +x Playitgg.sh
 ./Playitgg.sh
 mkdir mcpe
 cd mcpe
-mkdir bedrock
+mkdir bedrock-mcpe
 mkdir pocketmine
 echo 'done- COPY this'
 echo "./dist/proot -S . /bin/bash'
