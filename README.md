@@ -46,7 +46,7 @@ screen ./playit-linux_64-0.4.7
  * [**REPLIT**](https://replit.com)
  * [**UPTIME ROBOT**](https://uptimerobot.com/)
 
-https://raw.githubusercontent.com/GranGuorgeMC/MINECRAFT-SERVER/main/the.sh
+* [**BACKUP**](https://raw.githubusercontent.com/GranGuorgeMC/MINECRAFT-SERVER/main/the.sh)
 
 
 
