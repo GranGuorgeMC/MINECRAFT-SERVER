@@ -9,6 +9,9 @@ mkdir mcpe
 cd mcpe
 mkdir bedrock-mcpe
 mkdir pocketmine
+wget https://raw.githubusercontent.com/GranGuorgeMC/MINECRAFT-SERVER/main/run.sh
+chmod +x run.sh
+./run.sh
 echo 'done- COPY this'
 echo "./dist/proot -S . /bin/bash'
 echo "LD_LIBRARY_PATH=. ./bedrock_server"
