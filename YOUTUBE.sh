@@ -11,5 +11,4 @@ mkdir bedrock
 mkdir pocketmine
 echo 'done- COPY this'
 echo "./dist/proot -S . /bin/bash'
-echo 'then type'
-echo 'bash run.sh'
+echo "LD_LIBRARY_PATH=. ./bedrock_server"
